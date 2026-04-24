@@ -6,7 +6,7 @@ Muammolarni TypeScript da yechish.
 
 | Topic | Yechilgan |
 |-------|-----------|
-| Array | 0 |
+| Array | 1 |
 | String | 0 |
 | Linked List | 0 |
 | Tree | 0 |
