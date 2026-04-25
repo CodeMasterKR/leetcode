@@ -6,7 +6,7 @@ Muammolarni TypeScript da yechish.
 
 | Topic | Yechilgan |
 |-------|-----------|
-| Array | 0 |
+| Array | 1 |
 | String | 0 |
 | Linked List | 0 |
 | Tree | 0 |
@@ -16,11 +16,12 @@ Muammolarni TypeScript da yechish.
 | Two Pointers | 0 |
 | Binary Search | 0 |
 | Stack & Queue | 0 |
+| Chellange | 8 |
 
 ## 📊 Umumiy
 
 | Daraja | Yechilgan |
 |--------|-----------|
-| Easy | 0 |
-| Medium | 0 |
+| Easy | 6 |
+| Medium | 3 |
 | Hard | 0 |
