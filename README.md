@@ -13,7 +13,7 @@ Muammolarni TypeScript da yechish.
 | Dynamic Programming | 0 |
 | Hash Map | 0 |
 | Sliding Window | 0 |
-| Two Pointers | 0 |
+| Two Pointers | 1 |
 | Binary Search | 0 |
 | Stack & Queue | 0 |
 | Chellange | 8 |
@@ -22,7 +22,7 @@ Muammolarni TypeScript da yechish.
 
 | Daraja | Yechilgan |
 |--------|-----------|
-| Easy | 7 |
+| Easy | 8 |
 | Medium | 3 |
 | Hard | 0 |
 
