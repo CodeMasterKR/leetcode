@@ -6,7 +6,7 @@ Muammolarni TypeScript da yechish.
 
 | Topic | Yechilgan |
 |-------|-----------|
-| Array | 1 |
+| Array | 2 |
 | String | 0 |
 | Linked List | 0 |
 | Tree | 0 |
@@ -22,6 +22,9 @@ Muammolarni TypeScript da yechish.
 
 | Daraja | Yechilgan |
 |--------|-----------|
-| Easy | 6 |
+| Easy | 7 |
 | Medium | 3 |
 | Hard | 0 |
+
+
+## https://leetcode.com/u/Kamron1009 <-- profile
