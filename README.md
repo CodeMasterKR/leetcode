@@ -16,6 +16,7 @@ Muammolarni TypeScript da yechish.
 | Two Pointers | 1 |
 | Binary Search | 0 |
 | Stack & Queue | 0 |
+| Hash Table | 1 |
 | Chellange | 8 |
 
 ## 📊 Umumiy
@@ -23,7 +24,7 @@ Muammolarni TypeScript da yechish.
 | Daraja | Yechilgan |
 |--------|-----------|
 | Easy | 8 |
-| Medium | 3 |
+| Medium | 4 |
 | Hard | 0 |
 
 
